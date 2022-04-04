@@ -1,0 +1,117 @@
+section{
+background-color: #E7E7E7;
+padding-bottom: 5px;
+}
+
+.nack{
+  color: #E7E7E7;
+}
+
+.jumiaimg{
+  width:100%;
+ height: 55px;
+}
+
+.carousel-item{
+  height: 500px;
+  width: 600px
+}
+
+.co1{
+  width: 600px;
+
+}
+
+.moses{
+  color: #E7E7E7;
+}
+
+.card1{
+  width: 230px;
+  height: 480px;
+}
+
+.card-body{
+font-size: 15px;
+
+}
+
+.co2{
+  width: 100px;
+
+}
+
+
+
+/* 
+.j2{
+  height: 480px;
+  width: 6000px;
+} */
+
+.nav-item{
+color: #646464;
+background-color: color: #646464;
+}
+
+.r1{
+  margin-left: 200px;
+  width: 1000px;
+  height: 104px;
+}
+
+.btn{
+  text-align: center;
+}
+
+.crd1{
+  margin-top: 5px;
+  background-color: red;
+  color: white;
+}
+
+h3{
+  font-size: 22px;
+}
+span{
+  padding-left: 320px;
+}
+
+.e1{
+  padding-left: 200px;
+  font-size: 22px;
+}
+
+.crd2{
+
+  background-color: #FFC8C8;
+
+}
+
+.shop3{
+background-color: #EBC0FF;
+}
+
+.right1{
+  float: right;
+}
+
+.shop4{
+background-color: #A4E9FE;
+}
+
+.shop5{
+background-color: #ABFFC6;
+}
+
+.shop6{
+background-color: #B9F3FF;
+}
+
+.shop7{
+background-color: #FFF1B9;
+}
+
+h6{
+  font-size: 12px;
+}
